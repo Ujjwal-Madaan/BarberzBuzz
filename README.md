@@ -4,13 +4,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ujjwal-Madaan/BarberzBuzz">
-    <img src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/Logo.jpeg" alt="Logo" width="280" height="100">
+    <img src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/Logo.jpeg" alt="Logo" width="800" height="100">
   </a>
 
-  <h3 align="center">An Online BookStore</h3>
+  <h3 align="center">Barber Booking WebApp</h3>
 
   <p align="center">
-    An awesome bookstore where you can purchase from a wide variety of books! 
+    An awesome app where you can book the slots for your barber shop and try different hair colours on your face
     <br />
     <br />
     <a href="https://ujjwal-madaan.github.io/BarberzBuzz/">View Demo</a>
