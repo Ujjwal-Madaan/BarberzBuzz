@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ujjwal-Madaan/BarberzBuzz">
-    <img src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/Logo.jpeg" alt="Logo" width="800" height="100">
+    <img src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/Logo.jpeg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Barber Booking WebApp</h3>
