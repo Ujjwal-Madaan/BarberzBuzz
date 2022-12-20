@@ -1,47 +1,36 @@
 # BarberzBuzz
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Ujjwal-Madaan/BarberzBuzz">
-    <img src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/Logo.jpeg" alt="Logo" width="200" height="200">
-  </a>
+<h1>1. Methodology</h1>
+The main feature of the project is to try different hair colors on the hairs of the user. This functionality if achieved by the CNN Model.
 
-  <h3 align="center">Barber Booking WebApp</h3>
-
-  <p align="center">
-    An awesome app where you can book the slots for your barber shop and try different hair colours on your face
-    <br />
-    <br />
-    <a href="https://ujjwal-madaan.github.io/BarberzBuzz/">View Demo</a>
-  </p>
-</div>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
+<h1>2. Description</h1>
+An awesome app where you can book the slots for your barber shop, so as to save time in the long queues and try different hair colours on your face by selecting the color from the color picker according to the choice.
 
 This is an online webapp where users can book different slots for their haircut. Moreover, they can check the hair colors by applying on their face.
 
-<span style="color:cyan">**Users Have Following Access for this online store site:-**</span>
+<span style="color:cyan">**Users Have Following Access for this online site:-**</span>
 
 - Create New Account or Register
 - Login
 - View Available Bookings
 - Check hair colors on the face
 
+
+<h1>3. Input / Output</h1>
+User inputs his image and selects the color for his hairs.
+<img width="450" height="750 alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/6.png">
+
+<h1>4. Live Link</h1>
+Link: https://ujjwal-madaan.github.io/BarberzBuzz/
+
+<h1>5. Screenshot of the interface</h1>
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/1.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/2.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/3.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/4.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/5.png">
-<img width="450" height="750 alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/6.png">
 
-<br>
 
-## Getting Started
-
-<a href="https://ujjwal-madaan.github.io/BarberzBuzz/">Website link</a>
 
 <!-- CONTRIBUTING -->
 
