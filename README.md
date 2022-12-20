@@ -35,7 +35,7 @@ This is an online webapp where users can book different slots for their haircut.
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/3.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/4.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/5.png">
-<img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/6.png">
+<img width="1000" height="1500 alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/6.png">
 
 <br>
 
