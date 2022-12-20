@@ -25,17 +25,17 @@ This is an online webapp where users can book different slots for their haircut.
 
 <span style="color:cyan">**Users Have Following Access for this online store site:-**</span>
 
-- Create New Account or Register.
-- Login.
-- View Available Bookings.
-- Check hair colors on the face.
+- Create New Account or Register
+- Login
+- View Available Bookings
+- Check hair colors on the face
 
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/1.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/2.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/3.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/4.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/5.png">
-<img width="1000" height="1500 alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/6.png">
+<img width="300" height="700 alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/6.png">
 
 <br>
 
