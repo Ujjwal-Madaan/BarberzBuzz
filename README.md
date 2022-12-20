@@ -1,9 +1,9 @@
 # BarberzBuzz
 
-<h1>1. Methodology</h1>
+## 1. Methodology
 The main feature of the project is to try different hair colors on the hairs of the user. This functionality if achieved by the CNN Model.
 
-<h1>2. Description</h1>
+## 2. Description
 An awesome app where you can book the slots for your barber shop, so as to save time in the long queues and try different hair colours on your face by selecting the color from the color picker according to the choice.
 
 This is an online webapp where users can book different slots for their haircut. Moreover, they can check the hair colors by applying on their face.
@@ -16,14 +16,14 @@ This is an online webapp where users can book different slots for their haircut.
 - Check hair colors on the face
 
 
-<h1>3. Input / Output</h1>
+## 3. Input / Output
 User inputs his image and selects the color for his hairs.
-<img width="450" height="750 alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/6.png">
+<img width="450" height="750" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/6.png">
 
-<h1>4. Live Link</h1>
+## 4. Live Link
 Link: https://ujjwal-madaan.github.io/BarberzBuzz/
 
-<h1>5. Screenshot of the interface</h1>
+## 5. Screenshot of the interface
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/1.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/2.png">
 <img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/3.png">
